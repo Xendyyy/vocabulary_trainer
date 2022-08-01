@@ -1,0 +1,13 @@
+[
+  {"english": [
+    {"lection1": [
+      {"pes": "dog"},
+      {"auto": "car"}
+    ]}
+  ]},
+  {"spanish": [
+    {"lection1": [
+      {"ahoj": "hola"}
+    ]}
+  ]}
+]
