@@ -1,13 +1,19 @@
 [
-  {"english": [
-    {"lection1": [
-      {"pes": "dog"},
-      {"auto": "car"}
-    ]}
+  {"name": "English",
+    "lessons": [
+    {"words": [
+      {"original": "pes", "translated": "dog"},
+      {"original": "auto", "translated": "car"}
+    ],
+    "correct": 0, "difficulty": 0
+    }
   ]},
-  {"spanish": [
-    {"lection1": [
-      {"ahoj": "hola"}
-    ]}
+  { "name": "Español",
+    "lessons": [
+    {"words": [
+      {"original": "ahoj", "translated": "hola"}
+    ],
+      "correct": 0, "difficulty": 0
+    }
   ]}
 ]

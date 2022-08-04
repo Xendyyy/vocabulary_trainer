@@ -1,5 +1,5 @@
 <resources>
     <string name="app_name">Vocabulary Trainer</string>
-    <string name="edit_message">Enter a message</string>
-    <string name="button_send">Send</string>
+    <string name="english_button">English</string>
+    <string name="spanish_button">Español</string>
 </resources>
